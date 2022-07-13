@@ -1,0 +1,11 @@
+.btn-mileto-primary {
+  background-color: #56baed;
+  border-color: #56baed;
+  color: white;
+}
+
+.btn-mileto-primary:hover {
+  background-color: #39ace7;
+  border-color: #39ace7;
+  color: white;
+}
